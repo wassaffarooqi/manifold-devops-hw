@@ -20,5 +20,5 @@ Make this using API Gateway and Lambda (with python code).
 
 After the data is stored in S3, make a queryable table with AWS Glue and be able to present it for querying using Athena. 
 
-![Appflow](images/DevOps Homework.png)
+![Appflow](https://github.com/manifoldai/manifold-devops-hw/blob/542a705a3a6746b9872c9280200d156d0064f044/images/DevOps%20Homework.png)
 
