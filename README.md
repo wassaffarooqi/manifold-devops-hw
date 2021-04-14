@@ -10,7 +10,7 @@ Our goal is to build an endpoint for a hypothetical vendor to send us user data 
 
 Please support the Dev Team,  produce the Terraform code needed to support a Dev Team tasked with the following below.  This will include documentation on what is created, and any other support documentation you feel someone would need as a user of this code.  
 
-The dev team assignment calls for a python code, supplied is a stub file.  The stub file is fine to use for the Lambda function. OPTIONAL: build out the stub file and write testing.
+The dev team assignment calls for python code, supplied is a stub file.  The stub file is fine to use for the Lambda function. OPTIONAL: build out the stub file and write testing.
 
 ### Dev Teams Assignment needing support
 
